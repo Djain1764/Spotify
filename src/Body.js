@@ -53,7 +53,7 @@ function Body({ spotify }) {
       <Header spotify={spotify} />
 
       <div className="body__info">
-        <img src={discover_weekly?.images[0].url} alt="" />
+        <img src="https://newjams-images.scdn.co/image/ab676477000033ad/dt/v3/discover-weekly/xZ6U6VmlRlBAxMFGqqxRIZlBQjCtXxxOM6XH8BPouleKcszTh4-k9S8IugswModiaP06JtNs5t6pHmPDZdI2oxjrfhViNsK-PgKzq_ReaIl3kfKb_omaP5EMo04-Bxjj274UnpJPN5Q3Ks5vUYtLBOQ9ehEGgzurG4NN6pBGxRHkPLM5kmYjyHyxS3xeYdyBdVQTSxgiOrouu27RejKDvjwmoBwGSMLRYJcRNQBp_q5sNnWKn6sK3BWMYLi2598-mUjQK-CFp7IC22hlNhhMjUuRSSxmaooDM6v1bUot1mcRb5Mtew8Ko1VbM_tYoAiBeK3S-WtdO2_A1iPQRLGEqShT5tSdZYe4h_ftAlkPvTGK6dOrTbBAczUEnsToofkvA-PMyF0uFKyl-VjYfTB8OagLuEZCS8jWnzWgItEsfg8=/OTA6OTU6NjFUNDEtNjAtMg==" alt="" />
         <div className="body__infoText">
           <strong>PLAYLIST</strong>
           <h2>Discover Weekly</h2>
